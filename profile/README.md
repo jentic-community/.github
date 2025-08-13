@@ -51,8 +51,8 @@ For more details, see our [CONTRIBUTING.md](CONTRIBUTING.md) (coming soon).
 
 ## 🏗️ How This Relates to the Main Jentic Org
 
-- [jentic](https://github.com/jentic): Only hosts **official**, production-ready repositories.
-- [jentic-community](https://github.com/jentic-community): Hosts **community-driven and experimental** projects.
+- [`jentic`](https://github.com/jentic): Only hosts **official**, production-ready repositories.
+- [`jentic-community`](https://github.com/jentic-community): Hosts **community-driven and experimental** projects.
 
 Sometimes projects here may **graduate** to the main `jentic` org after review and polish.
 
