@@ -64,7 +64,7 @@ Sometimes projects here may **graduate** to the main `jentic` org after review a
 2. Clone it locally:
    ```bash
    git clone https://github.com/jentic-community/<repo-name>.git
-````
+```
 
 3. Run it, break it, improve it — and share your updates.
 
@@ -74,6 +74,22 @@ Sometimes projects here may **graduate** to the main `jentic` org after review a
 
 * **Discord:** [Jentic Community Discord](https://discord.gg/TdbWXZsUSm) – Chat with fellow builders.
 * **Docs:** [docs.jentic.com](https://docs.jentic.com) – Learn how to build with Jentic.
+
+<div align="center">
+  <p align="center">
+    <a href="https://x.com/JenticAI">
+      <img src="https://img.shields.io/badge/Follow%20on%20X-000000?style=for-the-badge&logo=x&logoColor=white" />
+    </a>
+    <a href="https://www.linkedin.com/company/jentic">
+      <img src="https://img.shields.io/badge/Follow%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="https://discord.gg/TdbWXZsUSm">
+      <img src="https://img.shields.io/badge/Join%20our%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+    </a>
+  </p>
+</div>
+
+---
 
 ---
 
