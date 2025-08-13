@@ -64,9 +64,8 @@ Sometimes projects here may **graduate** to the main `jentic` org after review a
 2. Clone it locally:
    ```bash
    git clone https://github.com/jentic-community/<repo-name>.git
-```
-
-3. Run it, break it, improve it — and share your updates.
+   ```
+3. Run it, break it, improve it and share your updates.
 
 ---
 
@@ -88,8 +87,6 @@ Sometimes projects here may **graduate** to the main `jentic` org after review a
     </a>
   </p>
 </div>
-
----
 
 ---
 
