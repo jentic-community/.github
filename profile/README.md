@@ -1,9 +1,11 @@
 <h3 align="center">
   <picture>
-    <img alt="Jentic logo" src="https://raw.githubusercontent.com/jentic/.github/refs/heads/main/assets/jenticCommunityBanner.png">
+    <img alt="Jentic logo" src="https://raw.githubusercontent.com/jentic-community/.github/refs/heads/main/assets/jenticCommunityBanner.png">
   </picture>
 </h3>
+
 ---
+
 # 🐤 Jentic Community
 
 Welcome to **`jentic-community`** — the open playground for builders, hackers, and tinkerers in the Jentic ecosystem.  
