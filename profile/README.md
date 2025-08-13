@@ -8,7 +8,7 @@
 
 # 🐤 Jentic Community
 
-Welcome to **`jentic-community`** — the open playground for builders, hackers, and tinkerers in the Jentic ecosystem.  
+Welcome to **`jentic-community`**. We are the open playground for builders, hackers, and tinkerers in the [Jentic](https://jentic.com) ecosystem.  
 Here is where we share **examples, hackathon projects, and community-driven experiments** built with Jentic’s tools.
 
 If the main [`jentic`](https://github.com/jentic) organization is our **library of official releases**, then `jentic-community` is our **workshop**. Here is messy, creative, and full of ideas in progress.
